@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "name": "JS"
+        "name": "Mathematics"
     },
     {
         "id": 2,
-        "name": "html"
+        "name": "Calculus"
     },
     {
         "id": 3,
-        "name": "css"
+        "name": "Physics"
     },
     {
         "id": 4,
-        "name": "b"
+        "name": "Chemistry"
     },
     {
         "id": 5,
-        "name": "b"
+        "name": "Biology"
     },
     {
         "id": 6,
-        "name": "b"
+        "name": "Mechanics"
     },
     {
         "id": 7,
-        "name": "b"
+        "name": "English"
     },
     {
         "id": 8,
-        "name": "b"
+        "name": "Economics"
     },
     {
         "id": 9,
-        "name": "b"
+        "name": "Programming"
     },
     {
         "id": 10,
-        "name": "b"
+        "name": "Geography"
     }
 ]
