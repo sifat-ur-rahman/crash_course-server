@@ -6,21 +6,21 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const books = require('./data/books.json');
+const courses = require('./data/course.json');
 
 
 app.get('/', (req, res) => {
     res.send('server is running')
 });
 
-app.get('/books', (req, res) => {
-    res.send(books)
+app.get('/courses', (req, res) => {
+    res.send(courses)
 })
 
-app.get('/books/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const book = books.find(b => b.id == id);
-    res.send(book)
+    const course = courses.find(b => b.id == id);
+    res.send(course)
 })
 
 
