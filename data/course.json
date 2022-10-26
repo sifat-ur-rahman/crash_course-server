@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Mathematics",
-        "img": "",
+        "img": "https://www.21clhk.org/wp-content/uploads/2020/12/Creativity-in-Mathematics.png",
         "price": 1150,
         "instructor": "Fahim",
         "time": 10,
@@ -11,16 +11,16 @@
     {
         "id": 2,
         "name": "Calculus",
-        "img": "",
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-16a98cddb17faaaf0378e714cb479ef9-lq",
         "price": 1150,
         "instructor": "Gias Uddin",
         "time": 10,
-        "class": 11
+        "class": 12
     },
     {
         "id": 3,
         "name": "Physics",
-        "img": "",
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-11029f44a9f162615f366bf6887cdc97.webp",
         "price": 1150,
         "instructor": "Shakil",
         "time": 10,
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "name": "Chemistry",
-        "img": "",
+        "img": "https://img.freepik.com/free-vector/hand-drawn-chemistry-background_23-2148164901.jpg?w=2000",
         "price": 1150,
         "instructor": "Hasain",
         "time": 10,
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "name": "Biology",
-        "img": "",
+        "img": "https://www.ndtv.com/education/cache-static/media/presets/625X400/article_images/2022/5/21/biology-featured-image.webp",
         "price": 1150,
         "instructor": "Rpkibul",
         "time": 10,
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "name": "Mechanics",
-        "img": "",
+        "img": "https://apastyle.apa.org/images/mechanics-of-style-category_tcm11-285736_w1024_n.png",
         "price": 1150,
         "instructor": "Asif",
         "time": 10,
@@ -56,16 +56,16 @@
     {
         "id": 7,
         "name": "English",
-        "img": "",
+        "img": "https://brownlowcollege.co.uk/wp-content/uploads/2018/02/Evening_English_1.jpg",
         "price": 1150,
-        "instructor": "",
+        "instructor": "Asif",
         "time": 10,
         "class": 11
     },
     {
         "id": 8,
         "name": "Economics",
-        "img": "",
+        "img": "https://i0.wp.com/forestrypedia.com/wp-content/uploads/2018/05/Economics-2.jpg?ssl=1",
         "price": 1150,
         "instructor": "Fahim",
         "time": 10,
@@ -74,7 +74,7 @@
     {
         "id": 9,
         "name": "Programming",
-        "img": "",
+        "img": "https://enicarthagepress.tn/wp-content/uploads/2019/11/bigstock-Programming-Web-Banner-Best-P-258081862.jpg",
         "price": 1150,
         "instructor": "Asif",
         "time": 10,
@@ -83,7 +83,7 @@
     {
         "id": 10,
         "name": "Geography",
-        "img": "",
+        "img": "https://media.istockphoto.com/vectors/geography-open-book-with-hand-drawn-word-geography-and-doodle-vector-id1257796192",
         "price": 1150,
         "instructor": "Shakil",
         "time": 10,
